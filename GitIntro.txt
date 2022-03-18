@@ -1,0 +1,14 @@
+List of tasks to check:
+
+1. Be introduced with Github
+        i) Open account with setting a repository
+2. Be introduced with Git
+        i) Install Git
+        ii) Work in VSC
+            a) Check version
+            b) Set username and email
+            c) File directory set up
+3. Be introduced with GitBash
+4. Be introduced with Github Desktop
+5. Sending a file to Github
+6. Sending a project to Github
